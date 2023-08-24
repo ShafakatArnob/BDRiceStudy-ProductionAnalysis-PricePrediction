@@ -4,8 +4,9 @@ Explore a detailed spatiotemporal study of rice production and pricing trends in
 
 🔍 Our investigation includes:
 
-Geospatial heat charts and chloropleth maps for visualizing rice cultivation trends.
-Comparative analysis of production and price dynamics over different time periods.
-Predictive modeling using GridSearchCV, Ridge regression, Decision Tree, and LightGBM for accurate rice price prediction in 2021 and 2022.
+- Geospatial heat charts and chloropleth maps for visualizing rice cultivation trends.
+- Comparative analysis of production and price dynamics over different time periods.
+- Predictive modeling using GridSearchCV, Ridge regression, Decision Tree, and LightGBM for accurate rice price prediction in 2021 and 2022.
+
 📈 Discover the significance of spatial factors in policy decisions and gain insights that can drive informed exploration and policy-making in the realm of rice production in Bangladesh.
 
