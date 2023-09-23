@@ -2,7 +2,7 @@
 
 Explore a detailed spatiotemporal study of rice production and pricing trends in Bangladesh from 1971 to 2022. This repository contains geospatial visualizations showcasing growth patterns, indigenous variations, and regional dynamics of rice cultivation. Comparative analysis of production and price trends offers valuable insights into the agricultural sector's dynamics.
 
-*🔍 Our investigation includes:*
+***🔍 Our investigation includes:***
 
 - Geospatial heat charts and chloropleth maps for visualizing rice cultivation trends.
 - Comparative analysis of production and price dynamics over different time periods.
