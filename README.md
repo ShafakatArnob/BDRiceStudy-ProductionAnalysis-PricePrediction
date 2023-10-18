@@ -1,4 +1,4 @@
-## **🌾Comprehensive Analysis of Rice Production and Price in Bangladesh 📊🇧🇩**
+## **🌾 Comprehensive Analysis of Rice Production and Price in Bangladesh 📊🇧🇩**
 
 Explore a detailed spatiotemporal study of rice production and pricing trends in Bangladesh from 1971 to 2022. This repository contains geospatial visualizations showcasing growth patterns, indigenous variations, and regional dynamics of rice cultivation. Comparative analysis of production and price trends offers valuable insights into the agricultural sector's dynamics.
 
