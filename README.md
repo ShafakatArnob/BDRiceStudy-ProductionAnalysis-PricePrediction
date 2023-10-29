@@ -10,3 +10,7 @@ Explore a detailed spatiotemporal study of rice production and pricing trends in
 
 📈 Discover the significance of spatial factors in policy decisions and gain insights that can drive informed exploration and policy-making in the realm of rice production in Bangladesh.
 
+
+## Publication
+Published in []
+DOI: []
