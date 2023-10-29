@@ -13,5 +13,5 @@ Explore a detailed spatiotemporal study of rice production and pricing trends in
 
 ## **Publication**
 
-- Published in []
+- Published in: []
 - DOI: []
